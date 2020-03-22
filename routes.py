@@ -1,1 +1,1 @@
-from idm import app
+from idm_bd import app

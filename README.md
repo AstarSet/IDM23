@@ -30,7 +30,7 @@
 После загрузки консоли набираем в консоли
 ```bash
 rm -r IDM
-git clone https://github.com/LordRalInc/IDM.git
+git clone https://github.com/AstarSet/IDM.git
 ```
 Далее переходим во вкладку *Web* и нажимаем *Reload * `имя аккаунта`.pythonanywhere.com
 
